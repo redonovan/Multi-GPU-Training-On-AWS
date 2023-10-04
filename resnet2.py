@@ -1,3 +1,6 @@
+# ResNet - multi-GPU implementation.
+# Sep-Oct 2023 (v2).
+
 # Launch an AWS EC2 Ubuntu Deep Learning AMI GPU PyTorch g4dn.12xlarge instance (this has 4 GPUs).
 # In a local machine window ssh into the EC2 instance with:
 # ssh -i "YourPrivateKeys.pem" -L 7000:localhost:6006 ubuntu@EC2Host
