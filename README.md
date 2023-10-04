@@ -11,4 +11,4 @@ My code in <a href=https://github.com/redonovan/Multi-GPU-Training-On-AWS/blob/m
 
 ![residual network testing error](resnet_test_4gpu.png)
 
-As before, it required several attempts to find a random seed which gets the 56-layer ResNet to work this well.
+As before, it required several attempts to find a random seed to get the 56-layer ResNet to work this well.
